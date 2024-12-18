@@ -1,5 +1,10 @@
 # Book Discovery App
 
+![Screenshot_1734540432](https://github.com/user-attachments/assets/ea9309ab-81c9-4495-ba0a-4ea3c31f8ab2)
+![Screenshot_1734540443](https://github.com/user-attachments/assets/4bf6c723-f9e6-4880-bd54-64cb75081331)
+![Screenshot_1734540448](https://github.com/user-attachments/assets/38060812-862c-4234-bf19-8ecb0db3cde2)
+![Screenshot_1734540426](https://github.com/user-attachments/assets/167e5cbf-a086-44fc-b013-4b81b16e1090)
+
 ## Overview
 This Flutter-based mobile application allows users to view a dynamic list of books, featuring their titles, authors, and cover images. The app integrates with the **Gutendex API** to fetch book data and presents an intuitive, efficient, and responsive user experience through the adoption of industry-standard architectural principles and best practices.
 
@@ -79,6 +84,7 @@ To properly handle multilingual data, the app first decodes the UTF-8-encoded co
 3. **UI Update:** The `BookListViewBlocBuilder` listens to the state changes and updates the UI accordingly. It displays a progress indicator while loading and a list of books once the data is fetched.
 4. **Pagination:** When the user scrolls to the bottom of the list and the `nextPageUrl` is not null, the `BookListCubit` fetches the next page of books and emits a new `BookListLoaded` state with the updated list of books.
 5. **Error Handling:** If an error occurs during data fetching, the `BookListCubit` emits a `BookListError` state, and the `BookListViewBlocBuilder` displays an error message.
+
 
 ## Scope of Improvement
 
