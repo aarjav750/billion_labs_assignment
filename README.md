@@ -1,9 +1,9 @@
 # Book Discovery App
 
-![Screenshot_1734540432](https://github.com/user-attachments/assets/ea9309ab-81c9-4495-ba0a-4ea3c31f8ab2)
-![Screenshot_1734540443](https://github.com/user-attachments/assets/4bf6c723-f9e6-4880-bd54-64cb75081331)
-![Screenshot_1734540448](https://github.com/user-attachments/assets/38060812-862c-4234-bf19-8ecb0db3cde2)
-![Screenshot_1734540426](https://github.com/user-attachments/assets/167e5cbf-a086-44fc-b013-4b81b16e1090)
+<img src="https://github.com/user-attachments/assets/ea9309ab-81c9-4495-ba0a-4ea3c31f8ab2" width="180" height="400">
+<img src="https://github.com/user-attachments/assets/4bf6c723-f9e6-4880-bd54-64cb75081331" width="180" height="400">
+<img src="https://github.com/user-attachments/assets/38060812-862c-4234-bf19-8ecb0db3cde2" width="180" height="400">
+<img src="https://github.com/user-attachments/assets/167e5cbf-a086-44fc-b013-4b81b16e1090" width="180" height="400">
 
 ## Overview
 This Flutter-based mobile application allows users to view a dynamic list of books, featuring their titles, authors, and cover images. The app integrates with the **Gutendex API** to fetch book data and presents an intuitive, efficient, and responsive user experience through the adoption of industry-standard architectural principles and best practices.
